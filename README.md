@@ -78,6 +78,6 @@ PORT=5000
 
 
 ## 👥 Authors
-- sadhna Suman - Initial work
+- Sadhna Suman - Initial work
   
 
